@@ -1,6 +1,6 @@
 Here's a detailed `README.md` file for your Stripe integration with Next.js project:
 
-```markdown
+
 # Stripe Integration with Next.js
 
 This repository demonstrates how to integrate Stripe with a Next.js application for handling payments.
